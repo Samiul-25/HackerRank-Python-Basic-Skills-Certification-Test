@@ -1,1 +1,1 @@
-HackerRank-Python-Basic-Skills-Certification-Test
+HackerRank Python (basic) skills certification test
